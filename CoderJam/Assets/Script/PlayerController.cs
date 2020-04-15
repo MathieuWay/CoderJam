@@ -39,7 +39,8 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.A))
         {
             Instantiate(test, transform.position, transform.rotation);
-            transform.position = Vector3.zero;
+
+            transform.position = Vector3.MoveTowards(transform.position, Vector3.zero,1);
         }
 
         
@@ -56,4 +57,7 @@ public class PlayerController : MonoBehaviour
         }
         transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(0, AngleRot, 0), Time.fixedDeltaTime * AngleSpeed);
     }
+
+
+
 }
