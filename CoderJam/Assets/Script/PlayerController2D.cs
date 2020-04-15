@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class PlayerController2D : MonoBehaviour
 {
-    Rigidbody rb;
+    Rigidbody2D rb;
     [SerializeField] private float speed = 0;
-    private float currentSpeed;
+    private float currentTime;
 
     private Vector2 pointS;
     private Vector2 pointH;
     private Vector2 pointF;
-
+    float ratioTime;
     [SerializeField] private float hauteur;
     [SerializeField] private float distance;
     private float ratioDH = 1;
@@ -20,46 +20,48 @@ public class PlayerController2D : MonoBehaviour
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody>();
+        //rb = GetComponent<Rigidbody2D>();
         pointS = transform.position;
     }
 
     private void Update()
     {
-
-        
         if (Input.GetKeyDown(KeyCode.A))
         {
             UpdatePointCourbe();
         }
-        Courbe();
         for (int i = 1; i < pointCourbe.Count; i++)
         {
             Debug.DrawLine(pointCourbe[i - 1], pointCourbe[i], Color.green);
         }
+    }
 
+    private void FixedUpdate()
+    {      
+        if(pointCourbe.Count > 0)
+        Courbe();
+        //Physics2D.BoxCastAll
     }
 
     void UpdatePointCourbe()
     {
         pointS = transform.position;
-        pointH = new Vector2(pointS.x + (distance / 2) * ratioDH, pointS.y + hauteur * ratioDH);
+        pointH = new Vector2(pointS.x + (distance / 2) * ratioDH, pointS.y + (hauteur) * ratioDH);
         pointF = new Vector2(pointS.x + distance * ratioDH, pointS.y);
         pointCourbe.Clear();
         DrawTime = 0;
-        currentSpeed = 0;
+        currentTime = 0;
         StartCoroutine(Calcule());
     }
 
     void Courbe()
     {
-        if(currentSpeed < 1)
-        {
-            Vector2 pointA = Vector2.Lerp(pointS, pointH, currentSpeed);
-            Vector2 pointB = Vector2.Lerp(pointH, pointF, currentSpeed);
-            transform.position = Vector2.Lerp(pointA, pointB, currentSpeed);
-            currentSpeed += Time.deltaTime * speed;
-        }
+        float totalTime = (pointF - pointS).magnitude / speed;
+        currentTime += Time.fixedDeltaTime;
+        ratioTime = currentTime / totalTime;
+        Vector2 pointA = Vector2.Lerp(pointS, pointH, ratioTime);
+        Vector2 pointB = Vector2.Lerp(pointH, pointF, ratioTime);
+        transform.position = Vector2.Lerp(pointA, pointB, ratioTime);
     }
 
 
