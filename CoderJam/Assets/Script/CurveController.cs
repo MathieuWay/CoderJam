@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController2D : MonoBehaviour
+public class CurveController : MonoBehaviour
 {
     Rigidbody2D rb;
     [SerializeField] private float speed = 0;

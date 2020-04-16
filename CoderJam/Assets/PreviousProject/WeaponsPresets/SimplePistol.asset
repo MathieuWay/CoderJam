@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f347f6c0ef209e4ca1600c2e1ed4163, type: 3}
+  m_Name: SimplePistol
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  sprite: {fileID: -5557420877203330147, guid: bb0ad6339aea7fa4da021a006678977e, type: 3}
+  damageOnHit: 1
+  rofPerMinute: 150
+  magazineSize: 7
+  accuracyAngle: 5
+  projectileEachShot: 1
+  projectileSpeed: 60
+  projectileRange: 20
+  reloadCooldown: 2.5
