@@ -12,9 +12,9 @@ public class CameraAim : MonoBehaviour
 
     //Parameters
     [Range(1, 20)]
-    public float aimRange;
+    public float aimRangeX;
     [Range(1, 20)]
-    public float cameraRange;
+    public float aimRangeY;
     public AnimationCurve cameraOffsetSmoothing;
 
     //DEBUG
@@ -31,26 +31,32 @@ public class CameraAim : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        Cursor.visible = false;
-        mouseViewportPos = playerCamera.ScreenToViewportPoint(Input.mousePosition);
-        aimDirection = new Vector3(Mathf.Lerp(-1, 1, mouseViewportPos.x) * Screen.width / Screen.height, Mathf.Lerp(-1, 1, mouseViewportPos.y), 0);
-        //aimDirection.x *= Screen.width / Screen.height;
-        //Debug.Log("Viewport:"+mouseViewportPos+"    /aim:"+ aimDirection);
+        if (PlayerController.instance.weapon.weaponList[PlayerController.instance.weapon.currentWeapon])
+        {
+            Cursor.visible = false;
+            mouseViewportPos = playerCamera.ScreenToViewportPoint(Input.mousePosition);
+            aimDirection = new Vector3(Mathf.Lerp(-1, 1, mouseViewportPos.x) * Screen.width / Screen.height, Mathf.Lerp(-1, 1, mouseViewportPos.y), 0);
+            //aimDirection.x *= Screen.width / Screen.height;
+            //Debug.Log("Viewport:"+mouseViewportPos+"    /aim:"+ aimDirection);
+            Vector3 aimRange = new Vector3(aimRangeX, aimRangeY, 0);
+            //Reticule position
+            Vector3 aimPosition = aimDirection;
+            aimPosition.Scale(aimRange);
+            aimPosition += transform.position;
+            reticule.position = aimPosition;
 
-        Vector3 aimPosition = transform.position + aimDirection * aimRange;
-        Vector3 cameraPosition = Vector3.Lerp(transform.position, transform.position + aimDirection * cameraRange, cameraOffsetSmoothing.Evaluate(aimDirection.magnitude / 1));
-
-
-
-
-        reticule.position = aimPosition;
-        playerTransformCamera.position = cameraPosition;
-
-
-
-        //Gun Aim
-        
-        playerGun.localEulerAngles = new Vector3(0, 0, Vector2.SignedAngle(Vector3.right, reticule.position - playerGun.transform.position));
-        
+            //Camera Position
+            Vector3 cameraPosition = aimDirection;
+            cameraPosition.Scale(new Vector3(aimRangeX - (Camera.main.orthographicSize * (Screen.width / Screen.height)), aimRangeY - Camera.main.orthographicSize));
+            cameraPosition += transform.position;
+            playerTransformCamera.position = Vector3.Lerp(transform.position, cameraPosition, cameraOffsetSmoothing.Evaluate(aimDirection.magnitude / 1));
+            //Gun Aim
+            playerGun.localEulerAngles = new Vector3(0, 0, Vector2.SignedAngle(Vector3.right, reticule.position - playerGun.transform.position));
+        }
+        else
+        {
+            reticule.position = Vector3.zero;
+            playerTransformCamera.position = PlayerController.instance.transform.position + Vector3.up *2;
+        }
     }
 }

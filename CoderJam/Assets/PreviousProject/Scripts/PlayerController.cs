@@ -10,12 +10,18 @@ public class PlayerController : MonoBehaviour
     public CharacterController character;
     [HideInInspector]
     public WeaponController weapon;
+    [HideInInspector]
+    public CurveController curve;
+
+    //Life
+    public int life = 100;
 
     //Stamina
     public float maxStamina = 100;
     public float consumeRateStamina = 10;
     [HideInInspector]
     public float currentStamina = 100;
+    public float timeJumpKeyHold;
 
     //Switch Weapon Cooldown
     public float switchWeaponCooldown;
@@ -27,14 +33,20 @@ public class PlayerController : MonoBehaviour
     {
         character = GetComponent<CharacterController>();
         weapon = GetComponent<WeaponController>();
+        curve = GetComponent<CurveController>();
         instance = this;
     }
 
     // Update is called once per frame
     void Update()
     {
+
         #region Stamina
-        if (currentStamina > 0 && Input.GetKey(KeyCode.LeftShift))
+        if (Input.GetKey(KeyCode.Space))
+            timeJumpKeyHold += Time.deltaTime;
+        else
+            timeJumpKeyHold = 0;
+        if (currentStamina > 0 && Input.GetKey(KeyCode.Space))
         {
             character.moveFactor = 2;
             currentStamina -= consumeRateStamina * Time.deltaTime;
@@ -43,7 +55,7 @@ public class PlayerController : MonoBehaviour
         {
             character.moveFactor = 1;
             if (currentStamina < maxStamina)
-                currentStamina += consumeRateStamina * Time.deltaTime;
+                currentStamina += consumeRateStamina/2 * Time.deltaTime;
             else
                 currentStamina = maxStamina;
         }
@@ -92,7 +104,7 @@ public class PlayerController : MonoBehaviour
         #region Weapon Reload
         if (!weapon.isReloading)
         {
-            if (weapon.weaponList[weapon.currentWeapon] && Input.GetKeyDown(KeyCode.Space))
+            if (weapon.weaponList[weapon.currentWeapon] && Input.GetMouseButtonDown(1))
             {
                 weapon.isReloading = true;
                 weapon.reloadCooldown = weapon.weaponList[weapon.currentWeapon].reloadCooldown;
@@ -129,5 +141,10 @@ public class PlayerController : MonoBehaviour
             }
         }
         #endregion
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("triggered");
     }
 }

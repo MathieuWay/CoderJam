@@ -1,0 +1,2191 @@
+fileFormatVersion: 2
+guid: 247e0cc423c8a9742abee508436572e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1088099981844097895
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_0
+  - first:
+      213: 8250463786207352252
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_1
+  - first:
+      213: 3385488338328188658
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_2
+  - first:
+      213: 8148112396857376628
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_3
+  - first:
+      213: 5291933467976715557
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_4
+  - first:
+      213: 2578086906642029562
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_5
+  - first:
+      213: -7252159727181690431
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_6
+  - first:
+      213: -1451181625095499843
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_7
+  - first:
+      213: -7985669308759901991
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_8
+  - first:
+      213: -4760012405175957299
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_9
+  - first:
+      213: -3700790632336053386
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_10
+  - first:
+      213: 7109706423339181270
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_11
+  - first:
+      213: 8247697561204482003
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_12
+  - first:
+      213: -784136586084471702
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_13
+  - first:
+      213: -9199387919303035629
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_14
+  - first:
+      213: -5854519710221439177
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_15
+  - first:
+      213: 1233010222692659454
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_16
+  - first:
+      213: -8359874857694144332
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_17
+  - first:
+      213: -4591641735801151063
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_18
+  - first:
+      213: -5955323750622689231
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_19
+  - first:
+      213: 707520317206641158
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_20
+  - first:
+      213: 6422531106874583167
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_21
+  - first:
+      213: 1494086910714769150
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_22
+  - first:
+      213: 2719436569728587983
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_23
+  - first:
+      213: -4907672911275650926
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_24
+  - first:
+      213: -8679914611266240927
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_25
+  - first:
+      213: 7556642682786097479
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_26
+  - first:
+      213: -5129625392633066590
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_27
+  - first:
+      213: 8226637019335961366
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_28
+  - first:
+      213: 1143673080310070352
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_29
+  - first:
+      213: 6499641845818848137
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_30
+  - first:
+      213: -3656864742225460930
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_31
+  - first:
+      213: 7724579645745798520
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_32
+  - first:
+      213: 1597843326201588830
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_33
+  - first:
+      213: 3338648940808663358
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_34
+  - first:
+      213: -6428047971804578776
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_35
+  - first:
+      213: 6568213499988198934
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_36
+  - first:
+      213: -456540671103865915
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_37
+  - first:
+      213: -1884393084627403214
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_38
+  - first:
+      213: -7109579276428737328
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_39
+  - first:
+      213: 4229898178302639907
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_40
+  - first:
+      213: -8152955582059432176
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_41
+  - first:
+      213: 26528093116142069
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_42
+  - first:
+      213: -8892860615064714606
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_43
+  - first:
+      213: -2117173758804851491
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_44
+  - first:
+      213: -1693929711814871293
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_45
+  - first:
+      213: 4473277946266552996
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_46
+  - first:
+      213: -2670435185757703509
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_47
+  - first:
+      213: -4441389466325860057
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_48
+  - first:
+      213: 4188633120388277024
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_49
+  - first:
+      213: -8853083961434863992
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_50
+  - first:
+      213: -6143841136471717118
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_51
+  - first:
+      213: 5588344868280428165
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_52
+  - first:
+      213: -381891895423836341
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_53
+  - first:
+      213: -5859020052994764708
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_54
+  - first:
+      213: 2307801438560448800
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_55
+  - first:
+      213: 4910732819840746477
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_56
+  - first:
+      213: -7998147096557926444
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_57
+  - first:
+      213: 494459009703828703
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_58
+  - first:
+      213: 5479805638082354522
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_59
+  - first:
+      213: -2170731483553091365
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_60
+  - first:
+      213: -8778952639384976642
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_61
+  - first:
+      213: 8850271368112229836
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_62
+  - first:
+      213: -7963866879211720348
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_63
+  - first:
+      213: 5838673175065683566
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_64
+  - first:
+      213: -5935629802891698539
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_65
+  - first:
+      213: -3588784556697915643
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_66
+  - first:
+      213: -2581069030057462616
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_67
+  - first:
+      213: -4309648503707233427
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_68
+  - first:
+      213: -427777687790635779
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_69
+  - first:
+      213: -5826526038001820810
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_70
+  - first:
+      213: -5353058519551581851
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_71
+  - first:
+      213: 2637612877359098887
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_72
+  - first:
+      213: -4134542974165338504
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_73
+  - first:
+      213: -3701572582469936744
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_74
+  - first:
+      213: -5430234347680646433
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_75
+  - first:
+      213: 7190258141660061320
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_76
+  - first:
+      213: -8350315485148277561
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_77
+  - first:
+      213: 8272389784060351616
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_78
+  - first:
+      213: -8892962146088805597
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_79
+  - first:
+      213: -6249879924490034842
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_80
+  - first:
+      213: -4729561100239664503
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_81
+  - first:
+      213: -8858440634283777797
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_82
+  - first:
+      213: 2636494930267470907
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_83
+  - first:
+      213: 8818376570830594186
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_84
+  - first:
+      213: -6653747443302688972
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_85
+  - first:
+      213: 2091333466881047288
+    second: Master System - Michael Jacksons Moonwalker - Michael Jackson_86
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 433
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2de12b25b91f00800000000000000
+      internalID: 1088099981844097895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 433
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51d19c9198f7270800000000000000
+      internalID: 8250463786207352252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 433
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f67745e4bbabfe20800000000000000
+      internalID: 3385488338328188658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 433
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ff3aced09e31170800000000000000
+      internalID: 8148112396857376628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 433
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc0c58379b07940800000000000000
+      internalID: 5291933467976715557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 433
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbdb7ed16437c320800000000000000
+      internalID: 2578086906642029562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 433
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c901f6d6272b5b90800000000000000
+      internalID: -7252159727181690431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 433
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfcb9b200e5cdbe0800000000000000
+      internalID: -1451181625095499843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 433
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d870a5d2143d2190800000000000000
+      internalID: -7985669308759901991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 433
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c807efe901fdb0800000000000000
+      internalID: -4760012405175957299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 433
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b248b078624acc0800000000000000
+      internalID: -3700790632336053386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 433
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e17cb250caa260800000000000000
+      internalID: 7109706423339181270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 386
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfd276db35b57270800000000000000
+      internalID: 8247697561204482003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2c03fdef2e15f0800000000000000
+      internalID: -784136586084471702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 386
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153ce68d65355080800000000000000
+      internalID: -9199387919303035629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 386
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6ab5975190cea0800000000000000
+      internalID: -5854519710221439177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef07508c3488c1110800000000000000
+      internalID: 1233010222692659454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 386
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8db640c12cbfb80800000000000000
+      internalID: -8359874857694144332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e6b93b263740c0800000000000000
+      internalID: -4591641735801151063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13800b9f9907a5da0800000000000000
+      internalID: -5955323750622689231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 338
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a397adafd91d900800000000000000
+      internalID: 707520317206641158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e720830a612950800000000000000
+      internalID: 6422531106874583167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 338
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efee6b811201cb410800000000000000
+      internalID: 1494086910714769150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 338
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc811e7e6216db520800000000000000
+      internalID: 2719436569728587983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 338
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909b993d7174ebb0800000000000000
+      internalID: -4907672911275650926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 338
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb0c236afba8780800000000000000
+      internalID: -8679914611266240927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 338
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7492502bb769ed860800000000000000
+      internalID: 7556642682786097479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 283
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab484122e8efc8b0800000000000000
+      internalID: -5129625392633066590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 283
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b299158c2ea2270800000000000000
+      internalID: 8226637019335961366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 283
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfe0b6b942fdf00800000000000000
+      internalID: 1143673080310070352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 283
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983fb4b72dd533a50800000000000000
+      internalID: 6499641845818848137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 283
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31400054e4304dc0800000000000000
+      internalID: -3656864742225460930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d14efd248333b60800000000000000
+      internalID: 7724579645745798520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 236
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c69f81a0eac2610800000000000000
+      internalID: 1597843326201588830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 236
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3172a2d583455e20800000000000000
+      internalID: 3338648940808663358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 236
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfa694d6cfac6a0800000000000000
+      internalID: -6428047971804578776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 236
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c8bbd06bf62b50800000000000000
+      internalID: 6568213499988198934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 237
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe551bdaa0aa9f0800000000000000
+      internalID: -456540671103865915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb495397a49d5e0800000000000000
+      internalID: -1884393084627403214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 205
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48cf5f053b55d90800000000000000
+      internalID: -7109579276428737328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 205
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffcc17bfd93ba30800000000000000
+      internalID: 4229898178302639907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 205
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173fc52812eade80800000000000000
+      internalID: -8152955582059432176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_42
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 205
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f191cef82f3e5000800000000000000
+      internalID: 26528093116142069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 205
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29281021366369480800000000000000
+      internalID: -8892860615064714606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd488a20fa94e92e0800000000000000
+      internalID: -2117173758804851491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 158
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077bc4e6e3fd78e0800000000000000
+      internalID: -1693929711814871293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 158
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8ec87796441e30800000000000000
+      internalID: 4473277946266552996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2353dd855b0fad0800000000000000
+      internalID: -2670435185757703509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 158
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214c76dfc30d52c0800000000000000
+      internalID: -4441389466325860057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ed2371a3012a30800000000000000
+      internalID: 4188633120388277024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 158
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88687ffea07832580800000000000000
+      internalID: -8853083961434863992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcb20b901bcbaa0800000000000000
+      internalID: -6143841136471717118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 158
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866b34ac0acd8d40800000000000000
+      internalID: 5588344868280428165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 158
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f59ae285f33baf0800000000000000
+      internalID: -381891895423836341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505b51ed4490bea0800000000000000
+      internalID: -5859020052994764708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 158
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f78d5e25f60020800000000000000
+      internalID: 2307801438560448800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 158
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c5714b7d662440800000000000000
+      internalID: 4910732819840746477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c758779fd00190800000000000000
+      internalID: -7998147096557926444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc536d79dbacd600800000000000000
+      internalID: 494459009703828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 99
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dd410d13e2c0c40800000000000000
+      internalID: 5479805638082354522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bf0c773300e1e0800000000000000
+      internalID: -2170731483553091365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef20b7d5615ea2680800000000000000
+      internalID: -8778952639384976642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 99
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc3262bea72da70800000000000000
+      internalID: 8850271368112229836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461361a8449aa7190800000000000000
+      internalID: -7963866879211720348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 99
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66646f6152270150800000000000000
+      internalID: 5838673175065683566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 99
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1b60842860ada0800000000000000
+      internalID: -5935629802891698539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 99
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fec9ab573123ec0800000000000000
+      internalID: -3588784556697915643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b9aa64633e2cd0800000000000000
+      internalID: -2581069030057462616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 99
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639cb5f48d0134c0800000000000000
+      internalID: -4309648503707233427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b66c957a301af0800000000000000
+      internalID: -427777687790635779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_70
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 99
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b565e4075042fa0800000000000000
+      internalID: -5826526038001820810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ef3063ad16b5b0800000000000000
+      internalID: -5353058519551581851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2cf1ffeeaa9420800000000000000
+      internalID: 2637612877359098887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b94c12172f96c0800000000000000
+      internalID: -4134542974165338504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899dd87195f51acc0800000000000000
+      internalID: -3701572582469936744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabe53a1aee3a4b0800000000000000
+      internalID: -5430234347680646433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e12092fade8c360800000000000000
+      internalID: 7190258141660061320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41b41ee48bd1c80800000000000000
+      internalID: -8350315485148277561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 48
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084dc7afdae6dc270800000000000000
+      internalID: 8272389784060351616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b91698b0ad59480800000000000000
+      internalID: -8892962146088805597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 48
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612deb6257f349a0800000000000000
+      internalID: -6249879924490034842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a85b4dc393d5eb0800000000000000
+      internalID: -4729561100239664503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 48
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf021a95d2f701580800000000000000
+      internalID: -8858440634283777797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_83
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf5ba9b26b69420800000000000000
+      internalID: 2636494930267470907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802cf7f4ca216a70800000000000000
+      internalID: 8818376570830594186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43797c014f329a3a0800000000000000
+      internalID: -6653747443302688972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Michael Jacksons Moonwalker - Michael Jackson_86
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab45035b8e50d10800000000000000
+      internalID: 2091333466881047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7fe927b3a9f3c314e84a63ae5903bcd1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,11 +7,6 @@ public class Projectile : MonoBehaviour
 {
     public float speed;
     public float range;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
@@ -27,14 +22,20 @@ public class Projectile : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(transform.position, transform.right, distance);
         if(hit.collider != null)
         {
-
-            Destroy(gameObject);
+            switch (hit.collider.tag)
+            {
+                case "Player":
+                    break;
+                case "Obstacle":
+                    Destroy(hit.collider.gameObject);
+                    break;
+                default:
+                    Destroy(gameObject);
+                    break;
+            }
         }
-        else
-        {
-            transform.position = Vector3.MoveTowards(transform.position, transform.position + transform.right, distance);
-            range -= distance;
-        }
+        transform.position = Vector3.MoveTowards(transform.position, transform.position + transform.right, distance);
+        range -= distance;
     }
 
     public void Init(float speed, float range)

@@ -23,14 +23,23 @@ public class WeaponController : MonoBehaviour
     {
         for (int i = 0; i < weaponList.Length; i++)
         {
-            magazineList[i] = weaponList[i].magazineSize;
+            if (weaponList[i])
+                magazineList[i] = weaponList[i].magazineSize;
+            else
+                magazineList[i] = 0;
         }
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!weaponList[currentWeapon]) return;
+        if (!weaponList[currentWeapon]) {
+            if(muzzle.parent.gameObject.activeSelf)
+                muzzle.parent.gameObject.SetActive(false);
+            return;
+        }
+        else if (!muzzle.parent.gameObject.activeSelf)
+            muzzle.parent.gameObject.SetActive(true);
 
         if (shotTimer > 0)
             shotTimer -= Time.deltaTime;
@@ -53,7 +62,22 @@ public class WeaponController : MonoBehaviour
             direction.z += UnityEngine.Random.Range(-weaponList[currentWeapon].accuracyAngle / 2, weaponList[currentWeapon].accuracyAngle / 2);
             GameObject gameObject = Instantiate(projectilePrefab, muzzle.position, Quaternion.Euler(direction), projectileFolder);
             Projectile projectile = gameObject.GetComponent<Projectile>();
-            projectile.Init(weaponList[currentWeapon].projectileSpeed, weaponList[currentWeapon].projectileRange);
+            projectile.Init(weaponList[currentWeapon].projectileSpeed*2 + PlayerController.instance.curve.currentScrollingSpeed, weaponList[currentWeapon].projectileRange*2);
+        }
+    }
+
+    public void GrabWeapon(WeaponPreset weapon)
+    {
+        int i = 0;
+        while (weaponList[i] != null) i++;
+        if (i < weaponList.Length)
+        {
+            weaponList[i] = weapon;
+            magazineList[i] = weapon.magazineSize;
+            if(i == currentWeapon)
+            {
+                WeaponUI.instance.LoadWeaponUI();   
+            }
         }
     }
 }
